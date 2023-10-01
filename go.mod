@@ -1,3 +1,3 @@
-module github/closing-f/gotestGithub
+module github.com/closing-f/gotestGithub
 
 go 1.20
